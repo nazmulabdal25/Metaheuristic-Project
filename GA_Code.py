@@ -79,7 +79,7 @@ def genetic_algorithm(tasks_df, team_df, generations=100, pop_size=50):
 import pandas as pd
 
 # File paths
-tasks_file = "tasks_300.csv"
+tasks_file = "tasks_200.csv"
 team_file = "team_members.csv"
 
 # Load datasets
