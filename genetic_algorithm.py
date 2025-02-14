@@ -1,4 +1,4 @@
-import random
+mimport random
 
 SPRINT_DAYS = 14
 
