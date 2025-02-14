@@ -1,7 +1,7 @@
 # Sprint Capacity Maximum Utilization by Genetic Algorithm
 
 ## Overview
-This project implements a Genetic Algorithm to maximize sprint capacity utilization. The algorithm optimizes the allocation of resources within a sprint to achieve the best possible efficiency.
+This project implements a Genetic Algorithm to maximize sprint capacity utilization. The algorithm optimizes the allocation of resources within a sprint to achieve the best possible efficiency. There are two datasets named "task_200.csv" and "team_members.csv" which were created using the "data_set_maker.py" python file.
 
 ## Requirements
 
